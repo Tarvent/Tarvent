@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 - ✍️ [My Blog](https://tarvent.github.io/chenduo-blog.github.io/)
 - 🌱 [Learning Note](https://tarvent.github.io/Chenduo_LearnNote/#/)
 - 🔭 I’m currently working in Japan
-
+- 📫 chenduo1026@gmail.com
+  
 ## On my Blog 
 - [日本IT企业销售排行榜](https://tarvent.github.io/chenduo-blog.github.io/2023/02/02/%E6%97%A5%E6%9C%AC%E5%A3%B2%E4%B8%8A%E9%AB%98%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/) 2022-02-02
-- [XS-Leaks attack through iframe counting](https://tarvent.github.io/chenduo-blog.github.io/2023/01/17/XS-Leaks%E6%94%BB%E5%87%BB/)
+- [XS-Leaks attack through iframe counting](https://tarvent.github.io/chenduo-blog.github.io/2023/01/17/XS-Leaks%E6%94%BB%E5%87%BB/) 2022-01-17
+
