@@ -1,4 +1,4 @@
-### Hi I'm Tarvent Chen 👋
+## Hi I'm Tarvent Chen 👋
 
 <!--
 **Tarvent/Tarvent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +20,8 @@ Here are some ideas to get you started:
 - 🍻 Computer Scienc_ Saitama University
 - ⚡ Java,JavaScript
 - ✍️ [My Blog](https://tarvent.github.io/chenduo-blog.github.io/)
-- 🌱 [Learning note](https://tarvent.github.io/Chenduo_LearnNote/#/)
+- 🌱 [Learning Note](https://tarvent.github.io/Chenduo_LearnNote/#/)
 - 🔭 I’m currently working in Japan
+
+---
+## On my Blog 
