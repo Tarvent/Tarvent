@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 - 📫 chenduo1026@gmail.com
   
 ## On my Blog 
-- [日本就职Share](https://tarvent.github.io/chenduo-blog.github.io/2023/02/20/JapanWork2023/) 2022-02-20
 - [XS-Leaks attack through iframe counting](https://tarvent.github.io/chenduo-blog.github.io/2023/01/17/XS-Leaks%E6%94%BB%E5%87%BB/) 2022-01-17
