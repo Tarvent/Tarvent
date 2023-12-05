@@ -26,3 +26,5 @@ Here are some ideas to get you started:
   
 ## On my Blog 
 - [XS-Leaks attack through iframe counting](https://tarvent.github.io/chenduo-blog.github.io/2023/01/17/XS-Leaks%E6%94%BB%E5%87%BB/) 2022-01-17
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarvent&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
